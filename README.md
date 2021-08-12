@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Apollo/GraphQL and am refactoring my blog repo with these technologies as we speak.
 - 🤓 I’ve recently been learning React, TypeScript, Express, Node, Redux and OAuth 2.0. 
 - 🚄 I actively try to learn new and emerging technologies. 
-- 🏙️ I frequently attend events like (https://reactnewyork.com/)[ReactDay NY] or (https://frontendlondon.co.uk/)[Frontend London] to keep abreast with new technology.
+- 🏙️ I frequently attend events like [React Day New York](https://reactnewyork.com/) or [Frontend London](https://frontendlondon.co.uk/) to keep abreast with new technology.
 - 💬 I speak English, Latvian and basic Spanish. Currently learning French 🇫🇷
