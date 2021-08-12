@@ -5,4 +5,4 @@
 - 🤓 I’ve recently been learning [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/en/), [Express](https://expressjs.com/), and [Redux](https://redux.js.org/). 
 - 🚄 I actively try to learn new and emerging technologies. 
 - 🏙️ I frequently attend events like [React Day New York](https://reactnewyork.com/) or [Frontend London](https://frontendlondon.co.uk/) to keep abreast with new technology.
-- 💬 I speak English, Latvian and basic Spanish. Currently learning French 🇫🇷
+- 💬 I speak English, Latvian and basic Spanish. Currently learning French.
